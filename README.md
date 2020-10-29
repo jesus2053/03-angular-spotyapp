@@ -17,8 +17,6 @@
 12. Realizar peticiones de tipo REST
 
 ## Comandos
-ng g p pipes/noimage --skipTests
-
-ng g c components/tarjetas --skipTests
-
-ng g c components/shared/loading  --skipTests -is
+``` ng g p pipes/noimage --skipTests ```
+``` ng g c components/tarjetas --skipTests ```
+``` ng g c components/shared/loading  --skipTests -is ```
